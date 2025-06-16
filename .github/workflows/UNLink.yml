@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "TEAMID.com.your.bundle.identifier",
+        "appID": "PA2YGKD9LG.com.finvasia.jumpp",
         "paths": [ "/path/to/match/*" ]
       }
     ]
